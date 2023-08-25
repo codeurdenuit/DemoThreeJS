@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vivi Ornitier - Retrogasm Art Competition
+* source:	https://sketchfab.com/3d-models/vivi-ornitier-retrogasm-art-competition-be1e505ef3304343bf00736644730c70
+* author:	Antoine Dupuis (https://sketchfab.com/gravitybwlast)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vivi Ornitier - Retrogasm Art Competition" (https://sketchfab.com/3d-models/vivi-ornitier-retrogasm-art-competition-be1e505ef3304343bf00736644730c70) by Antoine Dupuis (https://sketchfab.com/gravitybwlast) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
